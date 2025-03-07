@@ -18,7 +18,7 @@ import {
   StripText,
   FooterSection,
 } from "./Footer.styles";
-import logo from '../../assets/logo.png';
+import logo from '../../assets/Logo.png';
 import { FontSizeContext } from "../../context/FontSizeProvider";
 import { LanguageContext } from "../../context/LanguageContext";
 import { GetTotalVisitorApi, RegisterVisitorApi } from "../../services/viewsapi/ViewsApi";
