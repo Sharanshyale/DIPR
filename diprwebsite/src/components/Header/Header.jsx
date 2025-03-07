@@ -10,7 +10,7 @@ import {
   CMSection,
   CMImage,
 } from './Header.styles';
-import logo from '../../assets/logo.png';
+import logo from '../../assets/Logo.png';
 import cm from '../../assets/cm.png';
 import { FontSizeContext } from '../../context/FontSizeProvider';
 
