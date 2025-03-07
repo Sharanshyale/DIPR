@@ -3,7 +3,7 @@ import {
       LeftSection,
       Logo,  
     } from "../Logowithtitle/Logowithtitle.styles";
-import logo from "../../assets/logo.png"; 
+import logo from "../../assets/Logo.png"; 
 
 const Logowithtitle = () => {
       return (
