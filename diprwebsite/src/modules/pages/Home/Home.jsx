@@ -9,7 +9,7 @@ import {
   MagazineSection,
 } from "../../pages/Home/Home.styles";
 import Loader from "../../../components/loder/Loder";
-import Magzines from "../../components/magzinesdata/Magzinenews";
+import Magzines from "../../components/magzinesdata/MagzineNews";
 import AllNewsData from "../../components/allnewssection2/AllNewsData";
 
 const Home = () => {
